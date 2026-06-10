@@ -12,6 +12,12 @@ This is not a production platform. It is a prototype built to explore a product-
 
 **Can agents discover repeated workflows and turn them into cheaper, faster automations?**
 
+## Screenshots
+
+![ATC demo showing a compiled workflow reused by the agent](./img/atc-demo.png)
+
+![ATC flyer summarizing the experiment](./img/atc-flyer.png)
+
 ## Why This Is Interesting
 
 LLM agents are powerful, but they often burn tokens rediscovering the same path:

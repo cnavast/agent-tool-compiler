@@ -1,5 +1,7 @@
 # ATC — Agent Tool Compiler
 
+![ATC flyer summarizing the experiment](./img/atc-flyer.png)
+
 **Agents shouldn’t solve the same workflow twice.**
 
 ATC is an experimental side project about a simple idea:
@@ -15,8 +17,6 @@ This is not a production platform. It is a prototype built to explore a product-
 ## Screenshots
 
 ![ATC demo showing a compiled workflow reused by the agent](./img/atc-demo.png)
-
-![ATC flyer summarizing the experiment](./img/atc-flyer.png)
 
 ## Why This Is Interesting
 
